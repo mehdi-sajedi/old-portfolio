@@ -3,20 +3,21 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #020c1b;
-    --navy: #172a3a;
-    --light-navy: #283a50;
+    --navy: #192431;
+    --light-navy: #1f2f41;
     --lightest-navy: #233554;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
-    --slate: #a1bac6;
-    --light-slate: #a1bac6;
-    --lightest-slate: #a1bac6;
+    --slate: #d6e4ea;
+    --light-slate: #cbd7dd;
+    --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #64ffda;
+    --green: #37ffcf;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
-    --nav: rgba(23, 42, 58, 0.85);
+    --nav: rgba(25, 36, 49, 0.85);
+    --hero-subheading: #708ba0;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;

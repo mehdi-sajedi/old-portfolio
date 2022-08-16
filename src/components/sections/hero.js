@@ -30,7 +30,7 @@ const StyledHeroSection = styled.section`
 
   h3 {
     margin-top: 10px;
-    color: var(--slate);
+    color: var(--hero-subheading);
     line-height: 0.9;
   }
 
@@ -67,8 +67,7 @@ const Hero = () => {
       className="email-link"
       href="https://github.com/mehdi-sajedi"
       target="_blank"
-      rel="noreferrer"
-    >
+      rel="noreferrer">
       Check out my GitHub!
     </a>
   );
