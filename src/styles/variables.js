@@ -5,7 +5,7 @@ const variables = css`
     --dark-navy: #020c1b;
     --navy: #192431;
     --light-navy: #1f2f41;
-    --lightest-navy: #233554;
+    --lightest-navy: #3b4b5d;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
     --slate: #d6e4ea;

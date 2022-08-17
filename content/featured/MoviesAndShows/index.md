@@ -11,4 +11,4 @@ tech:
   - TheMovieDB API
 ---
 
-A multi-page movie gallery utilizing [TheMovieDB](https://www.themoviedb.org) API to deliver content for all your favorite movies & tv shows. Features include sort & filtering, image galleries, & embedded trailers.
+A multi-page movie gallery utilizing [TheMovieDB](https://www.themoviedb.org) API to deliver content for all your favorite movies & TV shows. Features include sort & filtering, image galleries, & embedded trailers.

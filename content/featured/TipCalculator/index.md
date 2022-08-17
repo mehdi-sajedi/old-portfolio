@@ -10,4 +10,4 @@ tech:
   - JavaScript
 ---
 
-Calculator with complete keyboard accessibility & heavy emphasis on JavaScript DOM manipulation
+Simple and user friendly calculator with complete keyboard accessibility

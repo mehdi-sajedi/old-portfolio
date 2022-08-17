@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for a role as a Frontend React Developer, however, I am open to
-        learning anything. Feel free to reach out or ask any questions!
+        I'm currently looking for a role as a Frontend Web Developer. Feel free to reach out or ask
+        any questions!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

@@ -8,4 +8,4 @@ tech:
   - React
 ---
 
-2-Player dice game built with React
+Interactive multiplayer dice game built with React

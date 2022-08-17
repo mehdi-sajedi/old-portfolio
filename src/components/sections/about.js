@@ -27,6 +27,7 @@ const StyledText = styled.div`
     margin: 20px 0 0 0;
     overflow: hidden;
     list-style: none;
+    margin-bottom: 1rem;
 
     li {
       position: relative;
@@ -127,6 +128,8 @@ const About = () => {
 
   const skills = ['JavaScript (ES6+)', 'React', 'HTML', 'Redux', 'CSS', 'Sass'];
 
+  const futureSkills = ['Node.js', 'Express', 'MongoDB', 'GraphQL'];
+
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -135,30 +138,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              {/* Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS! */}
-              Hello! My name is Mehdi.
+              Hello! My name is Mehdi and I enjoy building user interfaces on the web. My interest
+              in web development was sparked by Harvard's CS50: Introduction to Computer Science
+              course. Messing around with basic HTML & CSS was a lot of fun and made me want to
+              learn more.
             </p>
 
             <p>
-              {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients. */}
-              My top priority is to learn and grow as a web developer
+              Nowadays, I spent most of my time sharpening my frontend skills through projects &
+              exploring more backend technologies.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I feel comfortable working with:</p>
           </div>
 
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+          </ul>
+
+          <p>Some things I'm working on learning more about are:</p>
+
+          <ul className="skills-list">
+            {futureSkills && futureSkills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
         </StyledText>
 
