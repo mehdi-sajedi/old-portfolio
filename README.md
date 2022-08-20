@@ -18,9 +18,7 @@
 
 <p>Adapted from <a href='https://github.com/bchiang7/v4'>Brittany Chiang's design on GitHub</a></p>
 
-<!-- ![demo](https://raw.githubusercontent.com/mehdi-sajedi/Portfolio/main/src/images/demo.png) -->
-
-![demo](./src/images/demo.png)
+![demo](https://raw.githubusercontent.com/mehdi-sajedi/Portfolio/main/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
