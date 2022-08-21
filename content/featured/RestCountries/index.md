@@ -2,8 +2,8 @@
 date: '2'
 title: 'REST Countries'
 cover: './demo.png'
-github: 'https://github.com/mehdi-sajedi/REST-countries-api'
-external: 'https://restcountries-api-frontend.netlify.app/'
+github: 'https://github.com/mehdi-sajedi/rest-countries'
+external: 'https://countries-v3.netlify.app/'
 tech:
   - React
   - React Router

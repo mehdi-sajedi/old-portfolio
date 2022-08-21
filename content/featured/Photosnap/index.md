@@ -3,7 +3,7 @@ date: '3'
 title: 'Photosnap'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/photosnap'
-external: 'https://photosnap-frontend.netlify.app/'
+external: 'https://photosnappp.netlify.app/'
 tech:
   - HTML
   - SCSS

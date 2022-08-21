@@ -3,7 +3,7 @@ date: '4'
 title: 'Tip Calculator'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/tip-calculator'
-external: 'https://tip-calculator-frontend.netlify.app/'
+external: 'https://tip-calculate.netlify.app/'
 tech:
   - HTML
   - SCSS
