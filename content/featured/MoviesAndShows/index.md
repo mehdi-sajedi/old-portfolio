@@ -7,8 +7,9 @@ external: 'https://movies-and-shows.netlify.app/'
 tech:
   - React
   - Redux
+  - Firebase
   - SCSS Modules
-  - TheMovieDB API
+  - TMDB API
 ---
 
 A multi-page movie gallery utilizing [TheMovieDB](https://www.themoviedb.org) API to deliver content for all your favorite movies & TV shows. Features include sort & filtering, image galleries, & embedded trailers.
