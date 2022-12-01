@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Photosnap'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/photosnap'
@@ -10,4 +10,4 @@ tech:
   - JavaScript
 ---
 
-Fully responsive 4-page site with HTML, Sass, & JavaScript
+Fully responsive 4-page site with HTML, Sass, & JavaScript.

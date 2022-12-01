@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: 'Tip Calculator'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/tip-calculator'
@@ -10,4 +10,4 @@ tech:
   - JavaScript
 ---
 
-Simple and user friendly calculator with complete keyboard accessibility
+Simple and user friendly calculator with complete keyboard accessibility.

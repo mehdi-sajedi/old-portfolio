@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'REST Countries'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/rest-countries'
@@ -11,4 +11,4 @@ tech:
   - REST Countries API
 ---
 
-React App consuming the [REST Countries API](https://restcountries.com) with search & data filtering
+React app consuming the [REST Countries API](https://restcountries.com) with search & data filtering.

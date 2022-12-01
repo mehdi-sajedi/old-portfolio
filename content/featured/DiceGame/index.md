@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Dice Game'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/dice-game'
@@ -8,4 +8,4 @@ tech:
   - React
 ---
 
-Interactive multiplayer dice game built with React
+Interactive multiplayer dice game built with React.
