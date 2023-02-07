@@ -10,4 +10,4 @@ tech:
   - JavaScript
 ---
 
-Fully responsive 4-page site with HTML, Sass, & JavaScript.
+Multi-page site created with semantic HTML, Sass, & vanilla JavaScript.

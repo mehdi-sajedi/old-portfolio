@@ -126,9 +126,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'HTML', 'Redux', 'CSS', 'Sass'];
-
-  const futureSkills = ['Node.js', 'Express', 'MongoDB', 'GraphQL'];
+  const skills = [
+    'JavaScript',
+    'TypeScript',
+    'React',
+    'Redux',
+    'Node.js',
+    'Express',
+    'MongoDB',
+    'HTML',
+    'CSS',
+    'SCSS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,26 +149,15 @@ const About = () => {
             <p>
               Hello! My name is Mehdi and I enjoy building user interfaces on the web. My interest
               in web development was sparked by Harvard's CS50: Introduction to Computer Science
-              course. Messing around with basic HTML & CSS was a lot of fun and made me want to
+              course. Messing around with basic HTML & CSS was a lot of fun and intrigued me to
               learn more.
             </p>
 
-            <p>
-              Nowadays, I spent most of my time sharpening my frontend skills through projects &
-              exploring more backend technologies.
-            </p>
-
-            <p>Here are a few technologies I feel comfortable working with:</p>
+            <p>Here are some technologies I feel comfortable working with:</p>
           </div>
 
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
-
-          <p>Some things I'm working on learning more about are:</p>
-
-          <ul className="skills-list">
-            {futureSkills && futureSkills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
         </StyledText>
 

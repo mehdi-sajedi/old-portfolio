@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'REST Countries'
+title: 'Countries App'
 cover: './demo.png'
 github: 'https://github.com/mehdi-sajedi/rest-countries'
 external: 'https://countries-v3.netlify.app/'
 tech:
   - React
-  - React Router
+  - JavaScript
   - SCSS
-  - REST Countries API
+  - Context API
 ---
 
-React app consuming the [REST Countries API](https://restcountries.com) with search & data filtering.
+Fully responsive user interface showcasing information about all the countries of the world. Incorporated capabilities to filter, sort, & search countries. Built with the [REST Countries](https://restcountries.com) API.

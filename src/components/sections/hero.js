@@ -60,14 +60,20 @@ const Hero = () => {
 
   const one = <h1>Hey, my name is</h1>;
   const two = <h2 className="big-heading">Mehdi Sajedi.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
-  const four = <p>I'm a Frontend Developer from San Diego, CA.</p>;
+  const three = <h3 className="big-heading">I create things for the internet.</h3>;
+  const four = (
+    <p>
+      I'm a Web Developer from San Diego, CA. I graduated from San Diego State University with a
+      Bachelor's degree in Information Systems.
+    </p>
+  );
   const five = (
     <a
       className="email-link"
       href="https://github.com/mehdi-sajedi"
       target="_blank"
-      rel="noreferrer">
+      rel="noreferrer"
+    >
       Check out my GitHub!
     </a>
   );

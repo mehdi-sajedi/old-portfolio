@@ -10,4 +10,4 @@ tech:
   - JavaScript
 ---
 
-Simple and user friendly calculator with complete keyboard accessibility.
+Simplistic & user friendly tip calculator with complete keyboard accessibility.
