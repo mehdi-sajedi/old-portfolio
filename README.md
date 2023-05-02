@@ -73,4 +73,4 @@
 | Light Slate    | ![#cbd7dd](https://via.placeholder.com/10/cbd7dd?text=+) `#cbd7dd` |
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#37ffcf](https://via.placeholder.com/10/37ffcf?text=+) `#37ffcf` |
+| Green          | ![#3ed6b1](https://via.placeholder.com/10/3ed6b1?text=+) `#3ed6b1` |
