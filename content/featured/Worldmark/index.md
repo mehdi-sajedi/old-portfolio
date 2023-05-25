@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Countries App'
+title: 'Worldmark'
 cover: './demo.png'
-github: 'https://github.com/mehdi-sajedi/rest-countries'
-external: 'https://countries-v3.netlify.app/'
+github: 'https://github.com/mehdi-sajedi/worldmark'
+external: 'https://worldmark.netlify.app/'
 tech:
   - React
   - JavaScript

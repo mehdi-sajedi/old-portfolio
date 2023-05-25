@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Movies & Shows'
+title: 'Cinemedia'
 cover: './demo.png'
-github: 'https://github.com/mehdi-sajedi/movies-and-shows'
-external: 'https://movies-and-shows.netlify.app/'
+github: 'https://github.com/mehdi-sajedi/cinemedia'
+external: 'https://cinemedia.netlify.app/'
 tech:
   - React
   - TypeScript
