@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  Demo: <a href='https://mehdisajedi.netlify.app'>mehdisajedi.netlify.app</a>
+  Demo: <a href='https://mehdisajedi.com'>mehdisajedi.com</a>
 </p>
 
 <p>Adapted from <a href='https://github.com/bchiang7/v4'>Brittany Chiang's design on GitHub</a></p>
